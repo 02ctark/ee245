@@ -1,0 +1,9 @@
+vendor_name = ModelSim
+source_file = 1, C:/eee245/lab44/Light.v
+source_file = 1, C:/eee245/lab44/Waveform.vwf
+source_file = 1, C:/eee245/lab44/db/Light.cbx.xml
+design_name = Light
+instance = comp, \f~output , f~output, Light, 1
+instance = comp, \x2~input , x2~input, Light, 1
+instance = comp, \x1~input , x1~input, Light, 1
+instance = comp, \f~0 , f~0, Light, 1
